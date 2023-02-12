@@ -1,0 +1,134 @@
+{
+    "offspring": [
+        {
+            "id": 1,
+            "titre": "Smash",
+            "année": "1994"
+        },
+        {
+            "id": 2,
+            "titre": "Americana",
+            "année": "1998"
+        },
+        {
+            "id": 3,
+            "titre": "Splinter",
+            "année": "2003"
+        },
+        {
+            "id": 4,
+            "titre": "dfgdfg",
+            "année": "20dfgdgd03"
+        },
+        {
+            "id": 5,
+            "titre": "dfgdfg",
+            "année": "20dfgdgd03"
+        },
+        {
+            "id": 6,
+            "titre": "dfgdfg",
+            "année": "20dfgdgd03"
+        },
+        {
+            "id": 7,
+            "titre": "dfgdfg",
+            "année": "20dfgdgd03"
+        },
+        {
+            "id": 8,
+            "titre": "dfgdfg",
+            "année": "20dfgdgd03"
+        }
+    ],
+    "sum41": [
+        {
+            "id": 1,
+            "titre": "Does this look infected ?",
+            "année": "2002"
+        },
+        {
+            "id": 2,
+            "titre": "Chuck",
+            "année": "2004"
+        },
+        {
+            "id": 3,
+            "titre": "Underclass Hero",
+            "année": "2007"
+        }
+    ],
+    "linkinPark": [
+        {
+            "id": 1,
+            "titre": "Hybrid Theory",
+            "année": "2000"
+        },
+        {
+            "id": 2,
+            "titre": "Meteora",
+            "année": "2003"
+        },
+        {
+            "id": 3,
+            "titre": "Minutes to Midnight",
+            "année": "2007"
+        }
+    ],
+    "metallica": [
+        {
+            "id": 1,
+            "titre": "Master of Puppets",
+            "année": "1986"
+        },
+        {
+            "id": 2,
+            "titre": "Metallica",
+            "année": "1991"
+        },
+        {
+            "id": 3,
+            "titre": "Load",
+            "année": "1996"
+        },
+        {
+            "id": 4,
+            "titre": "reLoad",
+            "année": "1997"
+        }
+    ],
+    "greenDay": [
+        {
+            "id": 1,
+            "titre": "Nimrod",
+            "année": "1997"
+        },
+        {
+            "id": 2,
+            "titre": "Warning",
+            "année": "2000"
+        },
+        {
+            "id": 3,
+            "titre": "American idiot",
+            "année": "2004"
+        }
+    ],
+    "queen": [
+        {
+            "id": 1,
+            "titre": "Queen",
+            "année": "1973"
+        },
+        {
+            "id": 2,
+            "titre": "Sheer Heart Attack ",
+            "année": "1974"
+        },
+        {
+            "id": 3,
+            "titre": "The Game ",
+            "année": "1980"
+        }
+    ]
+}
